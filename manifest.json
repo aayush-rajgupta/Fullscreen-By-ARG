@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Fullscreen By ARG",
+    "description": "Extension for Fullscreen Song Information",
+    "preview": "marketplace/preview.gif",
+    "main": "marketplace/bfs-bundle.js",
+    "readme": "README.md",
+    "authors": [{ "name": "aayush-rajgupta", "url": "https://github.com/aayush-rajgupta" }]
+  }
+]
